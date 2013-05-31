@@ -1,6 +1,6 @@
 # Rend Core
 
-Rend-Core is required by all `rend-*` gems. It contains namespacing, helpers, exceptions, and other classes/modules that are shared across dependant gems.
+Rend-Core is required by all `rend-*` gems. It contains namespacing, helpers, exceptions, and other classes/modules that are shared across dependent gems.
 
 ## Installation
 
